@@ -43,7 +43,7 @@
 				<dt>notify_url: </dt>
 				<dd>
 					<span class="null-star">*</span> <input size="30"
-															name="notify_url" value="http://<%=serverPath%>/notifyurl.php" /> <span> notify_url</span>
+															name="notify_url" value="http://<%=serverPath%>/notifyurl.jsp" /> <span> notify_url</span>
 				</dd>
 				<dt>auth_code: </dt>
 				<dd>
@@ -53,7 +53,7 @@
 				<dt>description: </dt>
 				<dd>
 					<span class="null-star">*</span> <input size="30"
-															name="description" value="barcode-shopping-phptest" /> <span> description</span>
+															name="description" value="barcode-shopping-javatest" /> <span> description</span>
 				</dd>
 				<dt>merchant_no: </dt>
 				<dd>

@@ -17,9 +17,8 @@
 	<a href="query/index.jsp">Query Order</a> <br><br>
 	<a href="refund/index.jsp">Refund Order</a> <br><br>
 	<a href="cancel/index.jsp">Cancel Order</a> (if waiting pay and timeout, cancel this payment process. if already paid, then refund)<br><br>
-	<a href="accounting/index.jsp">Download Bill</a> (Only download complete transaction)<br><br>
 
-	<a href="demo.zip">Download PHP Demo files</a>
+	<a href="demo.zip">Download Java Demo files</a>
 
 	<P>
 		Some note:<br>

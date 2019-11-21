@@ -47,12 +47,12 @@
 				<dt>return_url: </dt>
 				<dd>
 					<span class="null-star">*</span> <input size="30"
-															name="return_url" value="http://<%=serverPath%>/returnurl.jsu?out_order_no=<?php echo $orderId ?>" /> <span> return_url</span>
+															name="return_url" value="http://<%=serverPath%>/returnurl.jsp?out_order_no=<%=orderId%>" /> <span> return_url</span>
 				</dd>
 				<dt>description: </dt>
 				<dd>
 					<span class="null-star">*</span> <input size="30"
-															name="description" value="mobile-shopping-phptest" /> <span> description</span>
+															name="description" value="mobile-shopping-javatest" /> <span> description</span>
 				</dd>
 				<dt>merchant_no: </dt>
 				<dd>

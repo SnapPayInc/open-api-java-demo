@@ -62,7 +62,7 @@
 				<dt>description: </dt>
 				<dd>
 					<span class="null-star">*</span> <input size="30"
-															name="description" value="mobile-shopping-phptest" /> <span> description</span>
+															name="description" value="mobile-shopping-javatest" /> <span> description</span>
 				</dd>
 				<dt>merchant_no: </dt>
 				<dd>
