@@ -6,6 +6,6 @@ This demo makes use of SnapPay OpenAPI Gateway Java SDK. To include this SDK in 
 <dependency>
     <groupId>ca.snappay</groupId>
     <artifactId>openapi-java-sdk</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
 </dependency>
 ```
