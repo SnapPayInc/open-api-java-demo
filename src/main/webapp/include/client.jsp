@@ -5,6 +5,7 @@
 
 <%
     BasicConfigurationHolder configHolder = new BasicConfigurationHolder();
+    configHolder.setGatewayHost("open-pre.snappay.ca");
     configHolder.setMerchantNo("901900010459");
     configHolder.setAppId("af58d5955f931403");
     configHolder.setLanguage(Language.ENGLISH);
