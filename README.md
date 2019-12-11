@@ -9,3 +9,5 @@ This demo makes use of SnapPay OpenAPI Gateway Java SDK. To include this SDK in 
     <version>1.1.2</version>
 </dependency>
 ```
+
+The source code of the SDK is also included in the demo under sdk folder, so you can check it if needed.
