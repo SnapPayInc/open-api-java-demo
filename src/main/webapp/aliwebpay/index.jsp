@@ -64,6 +64,11 @@
 					<span class="null-star">*</span> <input size="30"
 															name="description" value="mobile-shopping-javatest" /> <span> description</span>
 				</dd>
+				<dt>attach: </dt>
+				<dd>
+					<span class="null-star">*</span> <input size="100"
+															name="attach" value='{"test":"value"}' /> <span> attach</span>
+				</dd>
 				<dt>merchant_no: </dt>
 				<dd>
 					<span class="null-star">*</span> <input size="30" name="merchant_no" value="901800000116" /> <span> merchant_no </span>
