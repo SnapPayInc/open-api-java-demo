@@ -17,7 +17,7 @@
 <%
 	QueryExchangeRateRequest apiRequest = new QueryExchangeRateRequest();
 	apiRequest.setPaymentMethod(PaymentMethod.valueOf(request.getParameter("payment_method")));
-	apiRequest.setCurrency(Currency.valueOf(request.get("basic_currency_unit")));
+	apiRequest.setCurrency(Currency.valueOf(request.getParameter("basic_currency_unit")));
 	apiRequest.setPaymentType(PaymentType.valueOf(request.getParameter("pay_type")));
 
 	QueryExchangeRateResponse apiResponse = client.execute(apiRequest);
